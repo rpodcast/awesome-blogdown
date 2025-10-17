@@ -1,0 +1,21 @@
+---
+title: Awesome Blogdown
+---
+
+### About Blogdown and Hugo
+
+The [blogdown](https://github.com/rstudio/blogdown) and [hugodown](https://hugodown.r-lib.org) packages for R both take different approaches to the same goal; building a static website using [RMarkdown](https://rmarkdown.rstudio.com) and [Hugo](https://gohugo.io). Sites are rendered to static files which simplifies publishing and hosting, at the same time as allowing you to easily version control your site.
+
+### Contributing to the list
+
+If you want to add a site that uses blogdown or hugodown to this list, follow the [instructions over on GitHub](https://github.com/rpodcast/awesome-blogdown). We'll confirm that it's using blogdown/hugodown and merge the request. If you're not comfortable doing that, find me on [Mastodon](https://podcastindex.social/@rpodcast) or [BlueSky](https://bsky.app/profile/rpodcast.bsky.social) and let me know.
+
+### The List
+
+```{r test-reactable, echo=FALSE}
+library(reactable)
+source("../R/utils.R")
+all_data <- import_json_data(file = "../data/all.json")
+my_table <- create_site_table(all_data)
+my_table
+```

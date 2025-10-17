@@ -1,0 +1,71 @@
+# Basic config
+baseURL = "/"
+theme = "hugo-simple"
+defaultContentLanguage = "en"
+languageCode = "en"                # zh-Hans
+title = "Hugo Simple"
+copyright = "© 2025 Eric Nantz"
+mainSections = ["blog"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+publishDir = "docs"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# https://github.com/gohugoio/hugo/issues/12152
+capitalizeListTitles = false
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+# ignoreErrors = ["error-disable-taxonomy"]
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+blog = "/:slugorcontentbasename/"
+tags = "/blog/:slug"
+
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 3
+[markup.highlight]
+lineNos = true
+lineNumbersInTable = false
+noClasses = true
+style = "catppuccin-mocha"
+
+[params]
+title = "Awesome Blogdown"
+description = "An awesome curated list of blogs built using blogdown or hugodown for R."
+favicon = "images/favicon.png"
+dateFormat = "2006-01-02"
+hideMadeWithLine = false
+hideRSSLink = false
+
+[params.author]
+name = "Eric Nantz"
+email = "theRcast@gmail.com"
+fediverse = "@rpodcast@podcastindex.social"
+
+[[menu.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
+[[menu.main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 20
+
+[services.rss]
+limit = 42
+
+[pagination]
+pagerSize = 16
+
+[outputs]
+# Generate RSS for home only.
+section = ["html"]
+taxonomy = ["html"]
+term = ["html"]

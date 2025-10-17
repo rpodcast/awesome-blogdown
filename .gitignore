@@ -4,3 +4,14 @@
 logs/
 docs/sites.json
 tools/*.log
+
+# nix files
+result
+
+# Hugo and misc site files
+Thumbs.db
+.hugo_build.lock
+content/_index.html
+previous_site_files
+scratch
+/docs/
