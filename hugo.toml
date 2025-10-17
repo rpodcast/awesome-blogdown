@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "/"
+baseURL = "https://awesome-blogdown.org/"
 theme = "hugo-simple"
 defaultContentLanguage = "en"
 languageCode = "en"                # zh-Hans
