@@ -10,9 +10,15 @@ rix(
     "jsonlite",
     "knitr",
     "rix",
-    "purrr"
+    "purrr",
+    "reactable",
+    "dplyr"
   ),
-  system_pkgs = "hugo",
+  py_conf = list(
+    py_version = "3.12",
+    py_pkgs = c("requests")
+  ),
+  system_pkgs = c("hugo", "jq"),
   ide = "none",
   overwrite = TRUE
 )
