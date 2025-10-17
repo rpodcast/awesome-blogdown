@@ -22,9 +22,19 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        env:
-          BLOGDOWN_JSON_URL: ${{ secrets.BLOGDOWN_JSON_URL }}
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}  
-        run: ./tools/ab200.py
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@main
+        with:
+          logger: pretty
+          log-directives: nix_installer=trace
+          backtrace: full
+
+      - name: Nix cache
+        uses: DeterminateSystems/magic-nix-cache-action@main
+  
+      - name: Build development environment
+        run: |
+          nix-build
+
+      - name: Run site testing script
+        run: nix-shell --run "python tools/ab200.py"

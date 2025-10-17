@@ -8,9 +8,11 @@ on:
   push:
     branches: [ master ]
 
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -24,23 +26,26 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: sudo apt-get install -y jq
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@main
+        with:
+          logger: pretty
+          log-directives: nix_installer=trace
+          backtrace: full
 
-      # Runs a set of commands using the runners shell
-      - name: Push the changes back to the repo
+      - name: Nix cache
+        uses: DeterminateSystems/magic-nix-cache-action@main
+  
+      - name: Build development environment
         run: |
-          git config --global user.name "GitHub action"
-          git config --global user.email "github@5vcc.com"
-          git checkout -b netlify
-          
-      # Runs a single command using the runners shell
-      - name: make the new json file
-        run: make
+          nix-build
+      
+      - name: build web site
+        run: nix-shell --run "Rscript -e 'blogdown::build_site()'"
 
-      # Runs a set of commands using the runners shell
-      - name: Push the changes back to the repo
-        run: |
-          git add -f docs/sites.json
-          git commit -am "Automated GitHub action commit"
-          git push --force --set-upstream origin netlify
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          clean: false
+          branch: site-deploy
+          folder: docs
