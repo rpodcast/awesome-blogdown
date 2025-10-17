@@ -52,3 +52,5 @@
     }
     rm(is_rstudio, is_nix_r, is_code, is_positron)
 }
+
+options(blogdown.hugo.version = "0.151.0")

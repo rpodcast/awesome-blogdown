@@ -1,0 +1,9 @@
+<nav>{{- partial "nav.html" . -}}</nav>
+{{- if not (eq .Kind "404") }}
+  {{- with .Title }}
+    <h1>{{ . }}</h1>
+  {{- end }}
+{{- end }}
+{{ with .Description }}
+  <p>{{ . }}</p>
+{{ end }}
