@@ -8,6 +8,7 @@ copyright = "© 2025 Eric Nantz"
 mainSections = ["blog"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 publishDir = "docs"
+enableEmoji = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
