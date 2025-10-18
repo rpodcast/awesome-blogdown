@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://awesome-blogdown.org/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-blogdown.org/site-update/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://awesome-blogdown.org/blog/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url>
 </urlset>
