@@ -41,7 +41,7 @@ jobs:
           nix-build
       
       - name: build web site
-        run: nix-shell --run "Rscript -e 'blogdown::build_site()'"
+        run: nix-shell --run "Rscript -e 'blogdown::build_site(build_rmd = TRUE)'"
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
