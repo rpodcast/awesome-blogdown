@@ -1,10 +1,8 @@
 # Awesome Blogdown
 
-As of 2025-10-03 the website associated with this project is no longer available and the project is archived. It was fun while it lasted.
-
 An awesome curated list of blogs built using [blogdown](https://github.com/rstudio/blogdown) or [hugodown](https://hugodown.r-lib.org).
 
-~You'll find the Awesome Blogdown website at awesome-blogdown.com.~
+You'll find the Awesome Blogdown website at [awesome-blogdown.org](https://awesome-blogdown.org).
 
 
 ## About Blogdown and hugodown
@@ -14,7 +12,7 @@ Blogdown and hugodown both allow you to build websites using R, [RMarkdown](http
 
 ## Contributing to the list
 
-The easiest way to add a site that uses blogdown or hugodown to this list is to [create an issue](https://github.com/sellorm/awesome-blogdown/issues/new/choose) with the relevant information. We'll confirm that it's using one of the packages and add the site. 
+The easiest way to add a site that uses blogdown or hugodown to this list is to [create an issue](https://github.com/rpodcast/awesome-blogdown/issues/new/choose) with the relevant information. We'll confirm that it's using one of the packages and add the site. 
 If you're interested in how Awesome Blogdown works, or would prefer to add your site yourself, read on!
 
 The Awesome Blogdown website is driven from a single json file that gets deployed to the website. This file is automatically built from the contents of the `json` directory.
@@ -36,19 +34,14 @@ Have a look at the some of the other files in the `json` directory to get an ide
 
 ## Using the Awesome Blogdown data
 
-~The json file containing all the data is served from http://awesome-blogdown.com/sites.json.~
+The json file containing all the data is available in this GitHub repository `data` directory as the file `all.json`.
 
 If you do end up using it for something, let me know, I'd love to hear about it!
 
 ## Site build and deployment
 
-The site is built and deployed by manually trigerring the `CI` GitHub action.
-
-Site hosting is handled by Netlify.
-
-
+The site is built and deployed by the `CI` GitHub action at every push to the `master` branch of the repository. The site is hosted using Amazon Web Services (AWS) Amplify.
 
 ## License
 
-MIT  © [Mark Sellors](https://sellorm.com)
-
+MIT  © [Eric Nantz](https://r-podcast.org) & [Mark Sellors](https://sellorm.com)
