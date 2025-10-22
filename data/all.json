@@ -241,8 +241,8 @@
     "name": "ewenme.rbind.io",
     "url": "http://ewenme.rbind.io/",
     "desc": "Ewen Henderson's blog",
-    "result": "HTTP Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "floresfdev.github.io",
@@ -619,8 +619,8 @@
     "name": "r-podcast.org",
     "url": "https://r-podcast.org",
     "desc": "Eric Nantz, research scientist in life sciences and creator/host of the R-Podcast.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "Rahul's Personal Blog on Stats & ML",
