@@ -269,8 +269,8 @@
     "name": "foundinblank.io",
     "url": "http://foundinblank.io",
     "desc": "Adam Stone's data science and R blog",
-    "result": "OK",
-    "code": "200"
+    "result": "HTTP Error",
+    "code": "0"
   },
   {
     "name": "From Stata to R",
@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -738,8 +738,8 @@
     "name": "Visible Data",
     "url": "http://www.visibledata.co.uk/blog/",
     "desc": "Martin John Hadley's blog on data science, dataviz and reproducible research methods.",
-    "result": "OK",
-    "code": "200"
+    "result": "Timeout",
+    "code": "0"
   },
   {
     "name": "vm.nr.no",
