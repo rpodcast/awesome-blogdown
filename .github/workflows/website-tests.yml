@@ -5,7 +5,7 @@ name: Site tests
 # Controls when the action will run, in this case a schedule.
 on:
   schedule:
-  - cron: "0 4 * * 1,4"
+  - cron: "0 4 * * 1,4" # At 04:00 on Monday and Thursday
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -36,5 +36,18 @@ jobs:
         run: |
           nix-build
 
+      - name: Assemble integrated site JSON file
+        run: nix-shell --run "bash tools/build-json.sh data/json data/all.json"
+
       - name: Run site testing script
         run: nix-shell --run "python tools/ab200.py"
+
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest site data snapshot: ${timestamp}" || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
+
