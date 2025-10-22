@@ -56,6 +56,13 @@
     "code": "200"
   },
   {
+    "name": "bastianolea.rbind.io",
+    "url": "https://bastianolea.rbind.io/",
+    "desc": "Blog con recursos para aprender R para an\u00e1lisis de datos sociales",
+    "result": "OK",
+    "code": "200"
+  },
+  {
     "name": "beyondrawdata.rbind.io",
     "url": "https://beyondrawdata.rbind.io/",
     "desc": "Beyond Raw Data: Carlvin's personal blog about everything Data Science",
@@ -763,9 +770,9 @@
     "code": "200"
   },
   {
-    "name": "yihui.name",
-    "url": "https://yihui.name/",
-    "desc": "Yihui Xie, software engineer at RStudio, author of Knitr, bookdown, blogdown and others.",
+    "name": "yihui.org",
+    "url": "https://yihui.org",
+    "desc": "Yihui Xie, formerly software engineer at RStudio, author of Knitr, bookdown, blogdown and others.",
     "result": "OK",
     "code": "200"
   },
