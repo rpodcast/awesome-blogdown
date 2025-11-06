@@ -458,8 +458,8 @@
     "name": "Leo Van's Blog",
     "url": "https://leovan.me/",
     "desc": "Leo Van (Fan Yeliang), dark data explorer.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "livefreeordichotomize.com",
