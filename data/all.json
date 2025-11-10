@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "R & Census",
@@ -458,8 +458,8 @@
     "name": "Leo Van's Blog",
     "url": "https://leovan.me/",
     "desc": "Leo Van (Fan Yeliang), dark data explorer.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "livefreeordichotomize.com",
