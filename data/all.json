@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "200"
+    "code": "503"
   },
   {
     "name": "ewenme.rbind.io",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "202"
+    "code": "200"
   },
   {
     "name": "OpenGIS",
@@ -626,8 +626,8 @@
     "name": "r-podcast.org",
     "url": "https://r-podcast.org",
     "desc": "Eric Nantz, research scientist in life sciences and creator/host of the R-Podcast.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Rahul's Personal Blog on Stats & ML",
