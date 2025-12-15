@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "503"
+    "code": "200"
   },
   {
     "name": "ewenme.rbind.io",
@@ -346,7 +346,7 @@
     "name": "jechave.com",
     "url": "https://jechave.com",
     "desc": "Mainly focusing on analytics about my habits and things that interest me",
-    "result": "SSL Error",
+    "result": "OK",
     "code": "200"
   },
   {
@@ -738,7 +738,7 @@
     "name": "Visible Data",
     "url": "http://www.visibledata.co.uk/blog/",
     "desc": "Martin John Hadley's blog on data science, dataviz and reproducible research methods.",
-    "result": "Timeout",
+    "result": "Connection Error",
     "code": "0"
   },
   {
