@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "R & Census",
@@ -514,8 +514,8 @@
     "name": "Mike Mahoney's Personal Website",
     "url": "https://www.mikemahoney218.com/",
     "desc": "Blog and projects for Mike Mahoney, made via blogdown and using the hugo Academic theme",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Mrchypark's blog",
@@ -535,7 +535,7 @@
     "name": "Marie Vaugoyeau's blog",
     "url": "https://mvaugoyeau.netlify.com",
     "desc": "A blog about R, data analyses and statistics",
-    "result": "Connection Error",
+    "result": "HTTP Error",
     "code": "0"
   },
   {
@@ -556,8 +556,8 @@
     "name": "p0bs",
     "url": "http://www.p0bs.com",
     "desc": "Robin Penfold's personal blog; the architecture of which is plagiarised from the great work of Amber Thomas",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Paula Andrea",
@@ -619,8 +619,8 @@
     "name": "Thomas Roh's Blog",
     "url": "https://roh.engineering",
     "desc": "A blog covering R, Web Development, Operations Research, Industrial Engineering, and Statistics",
-    "result": "Timeout",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "r-podcast.org",
@@ -633,7 +633,7 @@
     "name": "Rahul's Personal Blog on Stats & ML",
     "url": "https://rsangole.netlify.com",
     "desc": "Hacking through stats & ML using R.",
-    "result": "Connection Error",
+    "result": "HTTP Error",
     "code": "0"
   },
   {
@@ -682,8 +682,8 @@
     "name": "statsandr.com",
     "url": "https://www.statsandr.com/",
     "desc": "A blog about statistics and its applications in R",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Surrounded by Data",
@@ -703,8 +703,8 @@
     "name": "thedatacollective.com.au",
     "url": "http://www.thedatacollective.com.au/",
     "desc": "Dan Wilson, Australian Data Scientist's, blog on open data sets.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "thelittledataset.com",
