@@ -619,8 +619,8 @@
     "name": "Thomas Roh's Blog",
     "url": "https://roh.engineering",
     "desc": "A blog covering R, Web Development, Operations Research, Industrial Engineering, and Statistics",
-    "result": "OK",
-    "code": "200"
+    "result": "Timeout",
+    "code": "0"
   },
   {
     "name": "r-podcast.org",
@@ -780,7 +780,7 @@
     "name": "Reproducible Random Thoughts",
     "url": "https://yonicd.netlify.com/",
     "desc": "Applied stats and R packages",
-    "result": "HTTP Error",
+    "result": "Connection Error",
     "code": "0"
   },
   {
