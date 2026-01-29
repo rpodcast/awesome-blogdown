@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "200"
+    "code": "503"
   },
   {
     "name": "ewenme.rbind.io",
@@ -619,8 +619,8 @@
     "name": "Thomas Roh's Blog",
     "url": "https://roh.engineering",
     "desc": "A blog covering R, Web Development, Operations Research, Industrial Engineering, and Statistics",
-    "result": "Timeout",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "r-podcast.org",
@@ -780,7 +780,7 @@
     "name": "Reproducible Random Thoughts",
     "url": "https://yonicd.netlify.com/",
     "desc": "Applied stats and R packages",
-    "result": "Connection Error",
+    "result": "HTTP Error",
     "code": "0"
   },
   {
