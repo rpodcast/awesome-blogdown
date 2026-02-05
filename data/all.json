@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "503"
+    "code": "200"
   },
   {
     "name": "ewenme.rbind.io",
