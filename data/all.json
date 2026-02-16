@@ -150,8 +150,8 @@
     "name": "Culture of Insight",
     "url": "https://www.cultureofinsight.com/blog/",
     "desc": "R focused blog of London based data consultancy Culture of Insight",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "cyrusyip.org",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "200"
+    "code": "202"
   },
   {
     "name": "OpenGIS",
@@ -661,8 +661,8 @@
     "name": "silvia.rbind.io",
     "url": "https://silvia.rbind.io/",
     "desc": "Silvia Canel\u00f3n: biomedical engineer/informaticist and R enthusiast, curious about all intersections of data and society.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "simecek.xyz/blog",
