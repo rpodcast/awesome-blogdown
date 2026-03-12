@@ -416,8 +416,8 @@
     "name": "juliasilge.com",
     "url": "https://juliasilge.com/",
     "desc": "Julia Silge, data scientist and software engineer at RStudio",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "jvera.netlify.com",
@@ -479,8 +479,8 @@
     "name": "maraaverick.rbind.io",
     "url": "https://maraaverick.rbind.io/",
     "desc": "Mara Averick's blog",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "Biology and bio-image analysis",
@@ -514,8 +514,8 @@
     "name": "Mike Mahoney's Personal Website",
     "url": "https://www.mikemahoney218.com/",
     "desc": "Blog and projects for Mike Mahoney, made via blogdown and using the hugo Academic theme",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "Mrchypark's blog",
@@ -535,7 +535,7 @@
     "name": "Marie Vaugoyeau's blog",
     "url": "https://mvaugoyeau.netlify.com",
     "desc": "A blog about R, data analyses and statistics",
-    "result": "HTTP Error",
+    "result": "Connection Error",
     "code": "0"
   },
   {
@@ -556,15 +556,15 @@
     "name": "p0bs",
     "url": "http://www.p0bs.com",
     "desc": "Robin Penfold's personal blog; the architecture of which is plagiarised from the great work of Amber Thomas",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "Paula Andrea",
     "url": "http://paulaandrea.rbind.io/",
     "desc": "A personal website with love of R",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "perswww.kuleuven.be/~u0072929",
@@ -619,8 +619,8 @@
     "name": "Thomas Roh's Blog",
     "url": "https://roh.engineering",
     "desc": "A blog covering R, Web Development, Operations Research, Industrial Engineering, and Statistics",
-    "result": "OK",
-    "code": "200"
+    "result": "Timeout",
+    "code": "0"
   },
   {
     "name": "r-podcast.org",
@@ -633,7 +633,7 @@
     "name": "Rahul's Personal Blog on Stats & ML",
     "url": "https://rsangole.netlify.com",
     "desc": "Hacking through stats & ML using R.",
-    "result": "HTTP Error",
+    "result": "Connection Error",
     "code": "0"
   },
   {
@@ -654,15 +654,15 @@
     "name": "shirin-glander.de",
     "url": "https://www.shirin-glander.de",
     "desc": "Dr Shirin Glander is a biologist turned bioinformatician turned data scientist",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "silvia.rbind.io",
     "url": "https://silvia.rbind.io/",
     "desc": "Silvia Canel\u00f3n: biomedical engineer/informaticist and R enthusiast, curious about all intersections of data and society.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "simecek.xyz/blog",
@@ -689,7 +689,7 @@
     "name": "Surrounded by Data",
     "url": "https://surroundedbydata.netlify.com/",
     "desc": "Data is all around us! A blog about the story behind the data, by Veerle van Son.",
-    "result": "HTTP Error",
+    "result": "Connection Error",
     "code": "0"
   },
   {
@@ -710,8 +710,8 @@
     "name": "thelittledataset.com",
     "url": "https://thelittledataset.com",
     "desc": "The little dataset that could - Alex Albright's blog",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "thisisnic.github.io",
@@ -780,7 +780,7 @@
     "name": "Reproducible Random Thoughts",
     "url": "https://yonicd.netlify.com/",
     "desc": "Applied stats and R packages",
-    "result": "HTTP Error",
+    "result": "Connection Error",
     "code": "0"
   },
   {
