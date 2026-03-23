@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -514,8 +514,8 @@
     "name": "Mike Mahoney's Personal Website",
     "url": "https://www.mikemahoney218.com/",
     "desc": "Blog and projects for Mike Mahoney, made via blogdown and using the hugo Academic theme",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Mrchypark's blog",
@@ -563,8 +563,8 @@
     "name": "Paula Andrea",
     "url": "http://paulaandrea.rbind.io/",
     "desc": "A personal website with love of R",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "perswww.kuleuven.be/~u0072929",
@@ -633,7 +633,7 @@
     "name": "Rahul's Personal Blog on Stats & ML",
     "url": "https://rsangole.netlify.com",
     "desc": "Hacking through stats & ML using R.",
-    "result": "Connection Error",
+    "result": "HTTP Error",
     "code": "0"
   },
   {
@@ -661,8 +661,8 @@
     "name": "silvia.rbind.io",
     "url": "https://silvia.rbind.io/",
     "desc": "Silvia Canel\u00f3n: biomedical engineer/informaticist and R enthusiast, curious about all intersections of data and society.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "simecek.xyz/blog",
