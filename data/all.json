@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -703,8 +703,8 @@
     "name": "thedatacollective.com.au",
     "url": "http://www.thedatacollective.com.au/",
     "desc": "Dan Wilson, Australian Data Scientist's, blog on open data sets.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "thelittledataset.com",
