@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
