@@ -150,8 +150,8 @@
     "name": "Culture of Insight",
     "url": "https://www.cultureofinsight.com/blog/",
     "desc": "R focused blog of London based data consultancy Culture of Insight",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "cyrusyip.org",
@@ -325,8 +325,8 @@
     "name": "ildiczeller.com",
     "url": "https://www.ildiczeller.com/",
     "desc": "Ildi Czeller's blog",
-    "result": "OK",
-    "code": "200"
+    "result": "Timeout",
+    "code": "0"
   },
   {
     "name": "ismayc.github.io/soc301_s2017",
@@ -388,8 +388,8 @@
     "name": "JLaw's R Blog",
     "url": "https://jlaw.netlify.app/",
     "desc": "A blog for me (JLaw) to post about random analyses I feel like doing",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "Regression to the Mean",
@@ -682,8 +682,8 @@
     "name": "statsandr.com",
     "url": "https://www.statsandr.com/",
     "desc": "A blog about statistics and its applications in R",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "Surrounded by Data",
@@ -752,8 +752,8 @@
     "name": "WiDS Tucson",
     "url": "https://widstucson.org/",
     "desc": " a blogdown site (based of wowchemy and academic) for the 2021 Women in Data Science Tucson Regional Conference.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "wrshoemaker.github.io",
