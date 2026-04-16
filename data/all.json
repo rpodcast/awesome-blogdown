@@ -150,8 +150,8 @@
     "name": "Culture of Insight",
     "url": "https://www.cultureofinsight.com/blog/",
     "desc": "R focused blog of London based data consultancy Culture of Insight",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "cyrusyip.org",
@@ -325,8 +325,8 @@
     "name": "ildiczeller.com",
     "url": "https://www.ildiczeller.com/",
     "desc": "Ildi Czeller's blog",
-    "result": "Timeout",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "ismayc.github.io/soc301_s2017",
@@ -388,8 +388,8 @@
     "name": "JLaw's R Blog",
     "url": "https://jlaw.netlify.app/",
     "desc": "A blog for me (JLaw) to post about random analyses I feel like doing",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Regression to the Mean",
@@ -437,8 +437,8 @@
     "name": "katiescranton.com/",
     "url": "http://www.katiescranton.com/",
     "desc": "The blog of Katie Scranton, applied statistician",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "kelseygonzalez.github.io",
@@ -549,8 +549,8 @@
     "name": "onceupondata.com",
     "url": "http://www.onceupondata.com",
     "desc": "Omayma's blog",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "p0bs",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "202"
+    "code": "200"
   },
   {
     "name": "OpenGIS",
@@ -682,8 +682,8 @@
     "name": "statsandr.com",
     "url": "https://www.statsandr.com/",
     "desc": "A blog about statistics and its applications in R",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Surrounded by Data",
@@ -766,8 +766,8 @@
     "name": "Yang's Strategy Machine",
     "url": "https://www.yang.management",
     "desc": "Strategic Thinking & Machine Learning by Ray Yang",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "yihui.org",
