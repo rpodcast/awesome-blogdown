@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -437,8 +437,8 @@
     "name": "katiescranton.com/",
     "url": "http://www.katiescranton.com/",
     "desc": "The blog of Katie Scranton, applied statistician",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "kelseygonzalez.github.io",
@@ -549,8 +549,8 @@
     "name": "onceupondata.com",
     "url": "http://www.onceupondata.com",
     "desc": "Omayma's blog",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "p0bs",
