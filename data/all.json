@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "200"
+    "code": "404"
   },
   {
     "name": "ewenme.rbind.io",
@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "R & Census",
@@ -766,7 +766,7 @@
     "name": "Yang's Strategy Machine",
     "url": "https://www.yang.management",
     "desc": "Strategic Thinking & Machine Learning by Ray Yang",
-    "result": "Connection Error",
+    "result": "Timeout",
     "code": "0"
   },
   {
