@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "200"
+    "code": "404"
   },
   {
     "name": "ewenme.rbind.io",
@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "R & Census",
@@ -374,7 +374,7 @@
     "name": "jessemaegan.com",
     "url": "https://www.jessemaegan.com",
     "desc": "A site dedicated to helping learners develop data science skills in R",
-    "result": "Connection Error",
+    "result": "Timeout",
     "code": "0"
   },
   {
@@ -738,8 +738,8 @@
     "name": "Visible Data",
     "url": "http://www.visibledata.co.uk/blog/",
     "desc": "Martin John Hadley's blog on data science, dataviz and reproducible research methods.",
-    "result": "HTTP Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "vm.nr.no",
