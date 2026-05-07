@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "200"
+    "code": "404"
   },
   {
     "name": "ewenme.rbind.io",
@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "202"
+    "code": "200"
   },
   {
     "name": "OpenGIS",
@@ -619,8 +619,8 @@
     "name": "Thomas Roh's Blog",
     "url": "https://roh.engineering",
     "desc": "A blog covering R, Web Development, Operations Research, Industrial Engineering, and Statistics",
-    "result": "Timeout",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "r-podcast.org",
@@ -654,8 +654,8 @@
     "name": "shirin-glander.de",
     "url": "https://www.shirin-glander.de",
     "desc": "Dr Shirin Glander is a biologist turned bioinformatician turned data scientist",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "silvia.rbind.io",
@@ -682,8 +682,8 @@
     "name": "statsandr.com",
     "url": "https://www.statsandr.com/",
     "desc": "A blog about statistics and its applications in R",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Surrounded by Data",
@@ -703,15 +703,15 @@
     "name": "thedatacollective.com.au",
     "url": "http://www.thedatacollective.com.au/",
     "desc": "Dan Wilson, Australian Data Scientist's, blog on open data sets.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "thelittledataset.com",
     "url": "https://thelittledataset.com",
     "desc": "The little dataset that could - Alex Albright's blog",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "thisisnic.github.io",
@@ -724,15 +724,15 @@
     "name": "thomasvanhoey.com/",
     "url": "https://www.thomasvanhoey.com/",
     "desc": "Personal website that touches upon linguistic issues like ideophones as well as R",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "tylerclavelle.com",
     "url": "https://www.tylerclavelle.com",
     "desc": "Tyler Clavelle, environmental data scientist.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Visible Data",
