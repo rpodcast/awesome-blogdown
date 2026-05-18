@@ -374,7 +374,7 @@
     "name": "jessemaegan.com",
     "url": "https://www.jessemaegan.com",
     "desc": "A site dedicated to helping learners develop data science skills in R",
-    "result": "Connection Error",
+    "result": "SSL Error - Retry Failed",
     "code": "0"
   },
   {
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "202"
+    "code": "200"
   },
   {
     "name": "OpenGIS",
@@ -738,8 +738,8 @@
     "name": "Visible Data",
     "url": "http://www.visibledata.co.uk/blog/",
     "desc": "Martin John Hadley's blog on data science, dataviz and reproducible research methods.",
-    "result": "OK",
-    "code": "200"
+    "result": "HTTP Error",
+    "code": "0"
   },
   {
     "name": "vm.nr.no",
