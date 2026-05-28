@@ -136,8 +136,8 @@
     "name": "codeRtime",
     "url": "https://www.codertime.org/",
     "desc": "R programming tutorials and exercises for data science and mathematics",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "Crime by the Numbers",
