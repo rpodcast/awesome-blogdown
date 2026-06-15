@@ -150,8 +150,8 @@
     "name": "Culture of Insight",
     "url": "https://www.cultureofinsight.com/blog/",
     "desc": "R focused blog of London based data consultancy Culture of Insight",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "cyrusyip.org",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "202"
+    "code": "200"
   },
   {
     "name": "OpenGIS",
