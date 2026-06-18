@@ -242,7 +242,7 @@
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
     "result": "SSL Error",
-    "code": "200"
+    "code": "404"
   },
   {
     "name": "ewenme.rbind.io",
@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "Connection Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "200"
+    "code": "202"
   },
   {
     "name": "OpenGIS",
