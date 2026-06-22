@@ -192,7 +192,7 @@
     "name": "drizopoulos.com",
     "url": "http://www.drizopoulos.com/",
     "desc": "Dimitris Rizopoulos, Associate Professor of Biostatistics Erasmus University Medical Center",
-    "result": "OK",
+    "result": "SSL Error",
     "code": "200"
   },
   {
@@ -241,8 +241,8 @@
     "name": "Evan Odell's Blog",
     "url": "https://evanodell.com/blog",
     "desc": "Evan Odell's blog on politics, geography and data science.",
-    "result": "SSL Error",
-    "code": "404"
+    "result": "SSL Error - Retry Failed",
+    "code": "0"
   },
   {
     "name": "ewenme.rbind.io",
@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "R & Census",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "202"
+    "code": "200"
   },
   {
     "name": "OpenGIS",
