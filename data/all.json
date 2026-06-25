@@ -192,7 +192,7 @@
     "name": "drizopoulos.com",
     "url": "http://www.drizopoulos.com/",
     "desc": "Dimitris Rizopoulos, Associate Professor of Biostatistics Erasmus University Medical Center",
-    "result": "SSL Error",
+    "result": "OK",
     "code": "200"
   },
   {
@@ -269,8 +269,8 @@
     "name": "foundinblank.io",
     "url": "http://foundinblank.io",
     "desc": "Adam Stone's data science and R blog",
-    "result": "HTTP Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "From Stata to R",
