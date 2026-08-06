@@ -514,8 +514,8 @@
     "name": "Mike Mahoney's Personal Website",
     "url": "https://www.mikemahoney218.com/",
     "desc": "Blog and projects for Mike Mahoney, made via blogdown and using the hugo Academic theme",
-    "result": "OK",
-    "code": "200"
+    "result": "Timeout",
+    "code": "0"
   },
   {
     "name": "Mrchypark's blog",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "200"
+    "code": "202"
   },
   {
     "name": "OpenGIS",
