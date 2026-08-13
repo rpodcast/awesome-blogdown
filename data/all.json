@@ -136,7 +136,7 @@
     "name": "codeRtime",
     "url": "https://www.codertime.org/",
     "desc": "R programming tutorials and exercises for data science and mathematics",
-    "result": "Connection Error",
+    "result": "SSL Error - Retry Failed",
     "code": "0"
   },
   {
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "202"
+    "code": "200"
   },
   {
     "name": "OpenGIS",
