@@ -661,8 +661,8 @@
     "name": "silvia.rbind.io",
     "url": "https://silvia.rbind.io/",
     "desc": "Silvia Canel\u00f3n: biomedical engineer/informaticist and R enthusiast, curious about all intersections of data and society.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "simecek.xyz/blog",
@@ -703,8 +703,8 @@
     "name": "thedatacollective.com.au",
     "url": "http://www.thedatacollective.com.au/",
     "desc": "Dan Wilson, Australian Data Scientist's, blog on open data sets.",
-    "result": "Connection Error",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "thelittledataset.com",
@@ -780,7 +780,7 @@
     "name": "Reproducible Random Thoughts",
     "url": "https://yonicd.netlify.com/",
     "desc": "Applied stats and R packages",
-    "result": "Connection Error",
+    "result": "HTTP Error",
     "code": "0"
   },
   {
