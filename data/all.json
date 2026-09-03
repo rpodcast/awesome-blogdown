@@ -269,8 +269,8 @@
     "name": "foundinblank.io",
     "url": "http://foundinblank.io",
     "desc": "Adam Stone's data science and R blog",
-    "result": "OK",
-    "code": "200"
+    "result": "Timeout",
+    "code": "0"
   },
   {
     "name": "From Stata to R",
@@ -787,7 +787,7 @@
     "name": "znmeb.mobi",
     "url": "https://www.znmeb.mobi/",
     "desc": "Borasky Research Journal",
-    "result": "HTTP Error",
+    "result": "Connection Error",
     "code": "0"
   }
 ]
