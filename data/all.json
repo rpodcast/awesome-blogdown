@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "HTTP Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "200"
+    "code": "202"
   },
   {
     "name": "OpenGIS",
@@ -787,7 +787,7 @@
     "name": "znmeb.mobi",
     "url": "https://www.znmeb.mobi/",
     "desc": "Borasky Research Journal",
-    "result": "HTTP Error",
+    "result": "Connection Error",
     "code": "0"
   }
 ]
