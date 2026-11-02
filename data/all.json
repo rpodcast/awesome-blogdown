@@ -297,8 +297,8 @@
     "name": "glhickey.com",
     "url": "http://glhickey.com/",
     "desc": "Graeme L. Hickey, Research Associate in Biostatistics.",
-    "result": "OK",
-    "code": "200"
+    "result": "HTTP Error",
+    "code": "0"
   },
   {
     "name": "R & Census",
@@ -346,7 +346,7 @@
     "name": "jechave.com",
     "url": "https://jechave.com",
     "desc": "Mainly focusing on analytics about my habits and things that interest me",
-    "result": "SSL Error",
+    "result": "OK",
     "code": "200"
   },
   {
