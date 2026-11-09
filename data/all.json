@@ -745,8 +745,8 @@
     "name": "vm.nr.no",
     "url": "http://vm.nr.no",
     "desc": "Daily predictions of FIFA World Cup 2018",
-    "result": "OK",
-    "code": "200"
+    "result": "Timeout",
+    "code": "0"
   },
   {
     "name": "WiDS Tucson",
