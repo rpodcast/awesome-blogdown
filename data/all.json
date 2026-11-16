@@ -606,7 +606,7 @@
     "url": "https://robjhyndman.com/",
     "desc": "Rob J Hyndman is Professor of Statistics at Monash University, Australia.",
     "result": "OK",
-    "code": "200"
+    "code": "202"
   },
   {
     "name": "OpenGIS",
@@ -626,8 +626,8 @@
     "name": "r-podcast.org",
     "url": "https://r-podcast.org",
     "desc": "Eric Nantz, research scientist in life sciences and creator/host of the R-Podcast.",
-    "result": "SSL Error - Retry Failed",
-    "code": "0"
+    "result": "OK",
+    "code": "200"
   },
   {
     "name": "Rahul's Personal Blog on Stats & ML",
